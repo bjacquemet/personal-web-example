@@ -9,6 +9,8 @@ We'll assume here that you have a good understanding of Hugo and its structure. 
 
 The first thing to do when starting your own website is to **copy the content of exampleSite** in your own root folder. This way, you can have a sample of `config.toml` file and a first structure.
 
+**Don't forget to change the `baseURL` param to avoid deployment failures**
+
 Browse the articles in the `content/post` folder to get any help during setup or using the theme. Please, (https://baptistej.com)[contact me] if you have any problem using the them.
 
 Then **configure the `config.toml` file** to match your need.
