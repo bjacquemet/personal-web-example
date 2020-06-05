@@ -1,4 +1,4 @@
-baseURL = "https://personal-web-example.netlify.com/"
+baseURL = "https://personal-web-example.netlify.app/"
 languageCode = "en-us"
 title = "Edna West"
 theme = "personal-web"
