@@ -192,3 +192,12 @@ In this last section, the email expects your email address and the text is what 
   email = ""
   text= ""
 ```
+
+
+## Latest Publication
+You can define the name of the latest publication header on the home page with the param `latestPublishHeader`.
+
+```TOML
+[params.main]
+  latestPublishHeader = "My Latest Project"
+```
